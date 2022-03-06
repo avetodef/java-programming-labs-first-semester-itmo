@@ -1,4 +1,4 @@
-/*package lab3;
+package lab3;
 import lab4.Conjunction;
 import lab4.Nature;
 
@@ -71,4 +71,4 @@ public class Main implements lab4.Conjunction{
         PrintStory printStory = new PrintStory();
         printStory.printStory();
     }
-} */
+}

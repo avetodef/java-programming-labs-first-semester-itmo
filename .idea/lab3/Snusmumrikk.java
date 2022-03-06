@@ -1,4 +1,4 @@
-/*package lab3;
+package lab3;
 import java.util.Scanner;
 import lab4.EmptyPipeException;
 
@@ -55,4 +55,4 @@ public class Snusmumrikk {
         return name.hashCode() + pipe.hashCode();
     }
 
-} */
+}
