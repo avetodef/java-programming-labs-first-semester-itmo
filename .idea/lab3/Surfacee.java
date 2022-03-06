@@ -1,4 +1,4 @@
-/*package lab3;
+package lab3;
 
 public interface Surfacee {
     String describe();
@@ -52,4 +52,4 @@ class Coast implements Surface {
     public int hashCode() {
         return name.hashCode() * 2;
     }
-} */
+}

@@ -1,4 +1,4 @@
-/*
+
 package lab3;
 
 
@@ -102,4 +102,4 @@ enum Direction {
     public String getName() {
         return name;
     }
-} */
+}

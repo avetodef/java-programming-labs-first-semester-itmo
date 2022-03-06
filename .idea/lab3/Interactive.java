@@ -1,4 +1,4 @@
-/*package lab3;
+package lab3;
 
 import lab4.EmptyPipeException;
 
@@ -83,7 +83,7 @@ class SmokingPipe implements  Interactive {
 }
 
 
-/*class Ash implements Interactive {
+class Ash implements Interactive {
 
     private static final String name = "пепел";
 
@@ -112,8 +112,8 @@ class SmokingPipe implements  Interactive {
     }
 
 
-}*/
-/*
+}
+
 class Tobacco implements Interactive {
 
     private final String name = "табак";
@@ -192,7 +192,7 @@ class Boat implements Interactive {
     }
 }
 
-/*class Feed implements  Interactive {
+class Feed implements  Interactive {
 
     private final String name = "корма лодки";
 
@@ -216,9 +216,9 @@ class Boat implements Interactive {
     public int hashCode() {
         return name.hashCode() * 2;
     }
-}*/
+}
 
-/*class Reed implements  Interactive {
+class Reed implements  Interactive {
     private final String name = "камыш";
 
     public String interact() {
@@ -241,5 +241,5 @@ class Boat implements Interactive {
     public int hashCode() {
         return name.hashCode() * 2;
     }
-}*/
+}
 
