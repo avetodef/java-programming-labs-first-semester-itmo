@@ -1,8 +1,8 @@
-package lab_2.pokemons;
+package pokemons;
 import ru.ifmo.se.pokemon.*;
-import lab_2.attacks.*;
+import attacks.*;
 
-public class Gardevoir extends Kirlia {
+public class Gardevoir extends lab_2.pokemons.Kirlia {
     public Gardevoir(String name, int level){
         super(name, level);
         this.setMove(new Facade(),new Double_Team(), new Sleep_Powder());
